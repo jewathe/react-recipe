@@ -1,3 +1,10 @@
+#Cloner le repertoire avec la command suivante:
+ git clone 
+
+
+
+
+
 # react-recipe
 
 ### L'utilisateur qui n'a pas de compte client, peut accéder ou peut:
