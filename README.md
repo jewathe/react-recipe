@@ -38,3 +38,7 @@
 ### Details:
 
 <img width="230" alt="image" src="https://github.com/user-attachments/assets/14d0c699-ae12-4bdd-b9e9-babd4e275832">
+
+### Gestion d'authentification avec OAuth 2:
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/e9b13d0e-30ca-4281-b146-7cea03a0c080">
