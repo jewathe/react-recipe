@@ -44,8 +44,11 @@
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/e9b13d0e-30ca-4281-b146-7cea03a0c080">
 
 ### console.log() sur l'ojet d'authentification:
-# Connecter
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/43da510e-e904-4f97-9f53-3ff93f40e57e">
+# Apres Login
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/103730b5-317a-4e38-a1c6-fa80ab8a5097">
 
-# Deconnecter
+
+# Apres Logout
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/129ecb67-ff57-4843-8baf-259cccc000b4">
 
