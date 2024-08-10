@@ -42,3 +42,10 @@
 ### Gestion d'authentification avec OAuth 2:
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/e9b13d0e-30ca-4281-b146-7cea03a0c080">
+
+### console.log() sur l'ojet d'authentification:
+# Connecter
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/43da510e-e904-4f97-9f53-3ff93f40e57e">
+
+# Deconnecter
+
